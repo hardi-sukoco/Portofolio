@@ -6,7 +6,7 @@ An interactive portfolio showcasing **14+ years of IT experience** across IT ope
 
 ## Portfolio
 
-🌐 **[Open Interactive Portfolio](https://hardi-sukoco.github.io/Portofolio/)**</b>
+🌐 **[Open Interactive Portfolio](https://hardi-sukoco.github.io/Portofolio/)**</br>
 An interactive professional portofolio showcasing 14+ years of experience across IT operations, infrastructure, enterprise applications, ERP, system integration, project delivery, governance, vendor management, and team leadership.
 
 ## About
