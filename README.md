@@ -6,8 +6,8 @@ An interactive portfolio showcasing **14+ years of IT experience** across IT ope
 
 ## Portfolio
 
-🌐 **View the interactive portfolio:**
-**[Open Portfolio]([https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/](https://hardi-sukoco.github.io/Portofolio/))**
+🌐 **[Open Interactive Portfolio](https://hardi-sukoco.github.io/Portofolio/)**
+View the full interactive IT Manager portfolio online.
 
 ## About
 
